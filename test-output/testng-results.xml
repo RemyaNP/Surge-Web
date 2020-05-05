@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-05T19:36:09Z" name="Default suite" finished-at="2020-05-05T19:36:12Z" duration-ms="3081">
+    <groups>
+    </groups>
+    <test started-at="2020-05-05T19:36:09Z" name="Default test" finished-at="2020-05-05T19:36:12Z" duration-ms="3081">
+      <class name="com.surge.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.surge.qa.testcases.HomePageTest@214b199c]" started-at="2020-05-05T19:36:09Z" name="setUp" finished-at="2020-05-05T19:36:12Z" duration-ms="2991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySurgeHomePageUrlAndElements()[pri:0, instance:com.surge.qa.testcases.HomePageTest@214b199c]" started-at="2020-05-05T19:36:12Z" name="verifySurgeHomePageUrlAndElements" finished-at="2020-05-05T19:36:12Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySurgeHomePageUrlAndElements -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.surge.qa.testcases.HomePageTest@214b199c]" started-at="2020-05-05T19:36:12Z" name="closeBrowser" finished-at="2020-05-05T19:36:12Z" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.surge.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
